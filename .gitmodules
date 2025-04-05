@@ -1,0 +1,12 @@
+[submodule "External/SDL"]
+	path = External/SDL
+	url = https://github.com/NekoCCN/SDL.git
+[submodule "External/SDL_ttf"]
+	path = External/SDL_ttf
+	url = https://github.com/NekoCCN/SDL_ttf.git
+[submodule "External/SDL_image"]
+	path = External/SDL_image
+	url = https://github.com/NekoCCN/SDL_image
+[submodule "External/pre_imgui/imgui"]
+	path = External/pre_imgui/imgui
+	url = https://github.com/NekoCCN/imgui.git
